@@ -4,6 +4,18 @@
 
 > 💰 **Price: $5 USD** — One-time payment, lifetime access, free updates.
 
+## 💳 How to Buy (30 Seconds)
+
+Send **$5 USDT** to any of these addresses, then open an Issue saying "paid" with your TXID:
+
+| Network | Address | Fee |
+|---------|---------|-----|
+| **BSC (BEP20)** | `0x717c80a5de505ede7d6ca2c3d8ce699e3431e7d0` | ~$0.01 |
+| **TRON (TRC20)** | `TN8S5pYpF9qHS6PN2a9FtTubk4ah7MkCCV` | ~$1 |
+| **Polygon** | `0x717c80a5de505ede7d6ca2c3d8ce699e3431e7d0` | ~$0.001 |
+
+> 💡 **BSC recommended** — lowest fees. The code is already here and works. If it makes you money, pay it forward. 🦞
+
 ---
 
 ## What You Get
