@@ -2,11 +2,11 @@
 
 **Automated grid trading bot for Binance Spot. Buy low, sell high, 24/7.**
 
-> 💰 **Price: $5 USD** — One-time payment, lifetime access, free updates.
+> 💰 **Price: $14.99 USD** — One-time payment, lifetime access, free updates.
 
 ## 💳 How to Buy (30 Seconds)
 
-Send **$5 USDT** to any of these addresses, then open an Issue saying "paid" with your TXID:
+Send **$14.99 USDT** to any of these addresses, then open an Issue saying "paid" with your TXID:
 
 | Network | Address | Fee |
 |---------|---------|-----|
@@ -170,4 +170,4 @@ A: 30-day money-back guarantee. Not satisfied? Full refund, no questions.
 
 ---
 
-**Made with 🦞 | Price: $5 | Instant Download**
+**Made with 🦞 | Price: $14.99 | Instant Download**
